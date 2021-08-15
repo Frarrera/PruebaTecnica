@@ -1,0 +1,10 @@
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\bin\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.deps.json
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\bin\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.dll
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\bin\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.pdb
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\obj\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\obj\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.AssemblyInfoInputs.cache
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\obj\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.AssemblyInfo.cs
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\obj\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.csproj.CoreCompileInputs.cache
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\obj\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.dll
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\obj\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.pdb
+C:\vitus\dev\Aspiria.PruebaTecnica.Data\obj\Debug\netcoreapp2.0\Aspiria.PruebaTecnica.Data.csproj.AssemblyReference.cache
