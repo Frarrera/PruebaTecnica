@@ -1,0 +1,12 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+@if (int.TryParse(ViewContext.RouteData.Values["Id"]?.ToString(), out int id))
+{
+    <form-product :id="@id"></form-product>
+}
+else
+{
+    <form-product></form-product>
+}
